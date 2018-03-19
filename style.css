@@ -1,0 +1,155 @@
+#top{
+
+    margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+    margin-left:10px;
+    
+    border-width: 1px;
+	border-color: black;
+    border-style: solid;
+    
+    padding-top: 10px; 
+	padding-right: 10px;
+	padding-bottom: 10px;
+    padding-left: 10px;
+
+    background-color: lightcyan;
+    
+    display: inline-block;
+
+    position: static;
+
+
+
+}
+
+#mail{
+    float: right;
+
+    margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+    margin-left:10px;
+    
+    border-width: 1px;
+	border-color: black;
+    border-style: solid;
+    
+    padding-top: 10px; 
+	padding-right: 10px;
+	padding-bottom: 10px;
+    padding-left: 10px;
+
+    background-color: lightyellow;
+    
+    display: inline-block;
+
+
+}
+
+#education{
+
+    margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+    margin-left:10px;
+    
+    border-width: 1px;
+	border-color: black;
+    border-style: solid;
+    
+    padding-top: 10px; 
+	padding-right: 10px;
+	padding-bottom: 10px;
+    padding-left: 10px;
+
+    background-color:lightcoral;
+    
+    display: block;
+
+    position: static;
+
+}
+
+#experience{
+
+    margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+    margin-left:10px;
+    
+    border-width: 1px;
+	border-color: black;
+    border-style: solid;
+    
+    padding-top: 10px; 
+	padding-right: 10px;
+	padding-bottom: 10px;
+    padding-left: 10px;
+
+    background-color:lightgoldenrodyellow  ;
+
+    
+    display: block;    
+    
+    position: static;
+
+
+
+
+}
+
+#projects{
+
+    margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+    margin-left:10px;
+    
+    border-width: 1px;
+	border-color: black;
+    border-style: solid;
+    
+    padding-top: 10px; 
+	padding-right: 10px;
+	padding-bottom: 10px;
+    padding-left: 10px;
+    
+    background-color:lightsalmon;
+
+
+    display: inline-block;
+
+    position: static;
+
+
+}
+
+
+
+#skills{
+
+    margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+    margin-left:10px;
+    
+    border-width: 1px;
+	border-color: black;
+    border-style: solid;
+    
+    padding-top: 10px; 
+	padding-right: 10px;
+	padding-bottom: 10px;
+    padding-left: 10px;
+
+    background-color:lightsteelblue;
+
+    
+    display: inline-block;
+
+    position: absolute;
+
+
+}
